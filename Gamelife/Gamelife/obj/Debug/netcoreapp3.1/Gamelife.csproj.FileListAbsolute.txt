@@ -1,0 +1,10 @@
+C:\Deepa\Code\Gamelife\Gamelife\bin\Debug\netcoreapp3.1\Gamelife.exe
+C:\Deepa\Code\Gamelife\Gamelife\bin\Debug\netcoreapp3.1\Gamelife.deps.json
+C:\Deepa\Code\Gamelife\Gamelife\bin\Debug\netcoreapp3.1\Gamelife.runtimeconfig.json
+C:\Deepa\Code\Gamelife\Gamelife\bin\Debug\netcoreapp3.1\Gamelife.runtimeconfig.dev.json
+C:\Deepa\Code\Gamelife\Gamelife\bin\Debug\netcoreapp3.1\Gamelife.dll
+C:\Deepa\Code\Gamelife\Gamelife\bin\Debug\netcoreapp3.1\Gamelife.pdb
+C:\Deepa\Code\Gamelife\Gamelife\obj\Debug\netcoreapp3.1\Gamelife.AssemblyInfoInputs.cache
+C:\Deepa\Code\Gamelife\Gamelife\obj\Debug\netcoreapp3.1\Gamelife.AssemblyInfo.cs
+C:\Deepa\Code\Gamelife\Gamelife\obj\Debug\netcoreapp3.1\Gamelife.dll
+C:\Deepa\Code\Gamelife\Gamelife\obj\Debug\netcoreapp3.1\Gamelife.pdb
